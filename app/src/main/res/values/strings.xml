@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="title_section1">Finanzas</string>
+    <string name="title_section2">Notas</string>
+    <string name="title_section3">Diario</string>
+    <string name="title_section4">Agenda</string>
+    <string name="title_section5">Configuración</string>
+
+    <string name="navigation_drawer_open">Abrir Categorías</string>
+    <string name="navigation_drawer_close">Cerrar Categorías</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Configuracion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Finanzas</string>
+
+
+
+
+    <string-array name="categorias">
+        <item>Finanzas</item>
+        <item>Notas</item>
+        <item>Diario</item>
+        <item>Agenda</item>
+        <item>Configuración</item>
+    </string-array>
+    <string-array name="titulos_categorias">
+        <item>Agenda - Finanzas</item>
+        <item>Agenda - Notas</item>
+        <item>Agenda - Diario</item>
+        <item>Agenda - Agenda</item>
+        <item>Agenda - Configuración</item>
+    </string-array>
+    <string-array name="iconos_categorias">
+        <item>@drawable/icono_finanzas</item>
+        <item>@drawable/icono_notas</item>
+        <item>@drawable/icono_diario</item>
+        <item>@drawable/icono_agenda</item>
+        <item>@drawable/icono_configuracion</item>
+    </string-array>
+
+</resources>
